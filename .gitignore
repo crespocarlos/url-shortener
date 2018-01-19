@@ -1,6 +1,5 @@
-**/node_modules/
-**/dist/
-**/npm-debug.log*
-**/package-lock.json
-**/.idea
-**/url-shortener-backend.iml
+node_modules/
+dist/
+package-lock.json
+.idea
+url-shortener-backend.iml
